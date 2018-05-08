@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Items</string>
+    <string name="ext1">Ingresar Nombre</string>
+    <string name="ext2">Ingresa Apellidos</string>
+    <string name="btnenviar">enviar</string>
+    <string name="ext5">Ingresa URL</string>
+    <string name="btnnavegar">navegar</string>
+    <string name="btncerrar">Cerrar</string>
+</resources>
